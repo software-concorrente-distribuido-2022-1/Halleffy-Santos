@@ -1,0 +1,3 @@
+Em todos os arquivos com o nome "Client", o ipHost para criacao do socket refere-se ao da maquina que foi usada para testar a aplicacao.
+Para testar a aplicacao em outras maquinas, substituir o ipHost, pelo ip da maquina que se deseja usar.
+A porta para a criacao do socket que foi usada foi a 8080.

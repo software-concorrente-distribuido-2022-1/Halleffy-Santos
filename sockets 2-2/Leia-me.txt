@@ -1,0 +1,8 @@
+Observações dos exercícios:
+1) 	Referente o protocolo ip
+O ip usado para criacao do socket no server refere-se ao da máquina de testes usada para verificação do código.
+Para testar o código, alterar o ip para o da máquina a ser utilizada.
+
+2)	Referente ao ambiente de teste
+A linguagem usada para o client foi java. Instalar java para se testar o client.
+A linguagem usada para o server foi python. Instalar python 3 para se testar o server.
